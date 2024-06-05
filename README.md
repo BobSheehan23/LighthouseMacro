@@ -1,4 +1,4 @@
-- Hi, I’m @BobSheehan23. I’m currently learning  Data Science at BrainStation in New York City.
+- Hi, I’m Bob. I’m currently studying Data Science at BrainStation in New York City. I am most interested in using data to glean insights around the intersection of macroeconomics and financial markets.
 
 <!---
 BobSheehan23/BobSheehan23 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
