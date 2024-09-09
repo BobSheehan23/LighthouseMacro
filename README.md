@@ -1,6 +1,5 @@
-        Bob SHeehan, CMT, CFA  
-Gobal Macro | Technical Analysis | Data Science
+Bob Sheehan, CMT, CFA  
+Gbal Macro | Technical Analysis | Data Science
 
-- Founder of Lighthouse Macro; 
-- Senior Research Analyst at Strom Capital Management, LLC
-
+- Founder, Lighthouse Macro
+- Senior Research Analyst, Strom Capital Management LLC
