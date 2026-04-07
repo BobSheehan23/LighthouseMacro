@@ -1,3 +1,2 @@
-Bob Sheehan, CMT, CFA  
- Macro | Data | Markets
-- Founder, Chief Strategist | Lighthouse Macro
+Bob Sheehan, CFA, CMT  
+Founder & CIO | Lighthouse Macro
